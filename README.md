@@ -17,7 +17,7 @@ Telegram: https://t.me/slavker99
 + Blender 3d
 + 3Ds Max
 + Adobe Photoshop
-+ Sony Vegas
++ Adobe Premier
 
 ## 4. Курсы
 Программирование на C# Ulearn
